@@ -6,7 +6,6 @@ function App() {
       <p>
         oi
       </p>
-
       <Example/>
     </div>
   );
